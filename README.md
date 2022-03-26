@@ -13,7 +13,7 @@ SVM
 
 ### Dimensionality Reduction for textual data:
 Latent Semantic Indexing (LSI)
-Non-negative Matrix Factorization (NMF)
+<br>Non-negative Matrix Factorization (NMF)
 
 ### Additional information:
 Lemmatization, stemming and TF-IDF are used for textual feature selection.
